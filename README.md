@@ -36,18 +36,19 @@ screenshots/1/g3.png - ось воно так виглядає це Git CMD
 
 ![image](https://github.com/user-attachments/assets/147c13f1-71b2-48f8-929a-7bf681328e6a)
 
-зміни
+статус
 
 ![image](https://github.com/user-attachments/assets/9980446b-611b-4722-8406-644ce36185b9)
 
-комміт з новими даними
+зміни
 
 ![image](https://github.com/user-attachments/assets/04c22ee6-cf44-4ec7-9224-34ca11277ad2)
 
-зміни
+комміт з новими даними
 
 ![image](https://github.com/user-attachments/assets/63db68bc-90bc-48de-82aa-cb01221a8bd8)
 
+зміни
 
 ![image](https://github.com/user-attachments/assets/8e63354b-32fd-4bda-83a4-a1d404eff66b)
 
