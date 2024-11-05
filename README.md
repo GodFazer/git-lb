@@ -48,21 +48,22 @@ screenshots/1/g3.png - ось воно так виглядає це Git CMD
 
 ![image](https://github.com/user-attachments/assets/63db68bc-90bc-48de-82aa-cb01221a8bd8)
 
-ресет
 
 ![image](https://github.com/user-attachments/assets/8e63354b-32fd-4bda-83a4-a1d404eff66b)
 
-статус і зміни
+ресет
 
 ![image](https://github.com/user-attachments/assets/a139e9f2-e4e9-4741-a040-bf6f44b08991)
 
-перевіряємо файл
+статус і зміни
 
 ![image](https://github.com/user-attachments/assets/04b87a99-5076-48b5-b2db-846d4befe5b5)
 
-статус
+перевіряємо файл 
 
 ![image](https://github.com/user-attachments/assets/54dd1932-e85c-488b-91d0-cf765c997e02)
+
+статус
 
 ![image](https://github.com/user-attachments/assets/d2f10dee-09a8-4eba-a517-dbe6ebaeea1a)
 
