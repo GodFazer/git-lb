@@ -68,9 +68,17 @@ screenshots/1/g3.png - ось воно так виглядає це Git CMD
 
 ![image](https://github.com/user-attachments/assets/d2f10dee-09a8-4eba-a517-dbe6ebaeea1a)
 
+дивимось файли
+
 ![image](https://github.com/user-attachments/assets/9954778f-630a-4e46-9ce5-fa0109cff0e9)
+
+статус. доданий гітігнор
 
 ![image](https://github.com/user-attachments/assets/7eb7683f-75d8-4ae1-9e60-2a7bdf545b2a)
 
+додємо і коммітимо
+
 ![image](https://github.com/user-attachments/assets/f4838653-a5c0-4c6a-b12b-bbebb094984f)
+
+файли в директорії
 
